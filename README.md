@@ -1,6 +1,6 @@
-# Freescribe
+# Transcríbelo
 
-Freescribe es una aplicación web desarrollada con **React.js** y **TailwindCSS**. Esta herramienta utiliza modelos de **Machine Learning** para realizar **transcripciones** y **traducciones en tiempo real**, todo directamente en el navegador, lo cual garantiza una experiencia completamente independiente de servidores externos.
+Transcríbelo es una aplicación web desarrollada con **React.js** y **TailwindCSS**. Esta herramienta utiliza modelos de **Machine Learning** para realizar **transcripciones** y **traducciones en tiempo real**, todo directamente en el navegador, lo cual garantiza una experiencia completamente independiente de servidores externos.
 
 ## Características principales
 
