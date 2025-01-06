@@ -70,7 +70,7 @@ export default function Information(props) {
 
     worker.current.postMessage({
       text: output.map((val) => val.text),
-      src_lang: "eng_latin", // cambiar esto
+      src_lang: "eng_Latn", // cambiar esto
       tgt_lang: toLanguage,
     });
   }
